@@ -2,7 +2,7 @@
 
 function getFontInfo(name, colour="black", size=11)
 {
-    return "The font " + name + " is " + colour + " in colour.  It size is " + size + "point.";
+    return "The font " + name + " is " + colour + " in colour.  It size is " + size + " point.";
 }
 
 // Define Variables
