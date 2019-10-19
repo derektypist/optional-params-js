@@ -1,14 +1,20 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Optional Parameters in JavaScript
 
+Welcome to Optional Parameters in JavaScript.  The purpose of this project is to investigate the optional
+parameters in JavaScript.
 
-Hi there! Welcome to AWS Cloud9!
+## Technologies
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+* HTML5
+* CSS3
+* JavaScript
 
-Happy coding!
+## Testing
+
+Invoke the function with 1, 2 and 3 parameters.
+
+If 2 parameters are used the size is 11.
+If 1 parameter is used the colour is black and the size is 11.
+
+## Deployment
+
