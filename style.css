@@ -1,0 +1,18 @@
+/* Body */
+
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+}
+
+/* Heading */
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Paragraph */
+
+p {
+    color: green;
+}
