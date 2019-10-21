@@ -5,7 +5,12 @@ parameters in JavaScript.
 
 ## UX
 
-The user wants to view the various parameters.
+The function getFontInfo has three parameters - name, colour and size.  The two parameters colour and size are optional.
+Name is the font name (e.g. Calibri), colour is the font colour (e.g. Black) and size is the font size in points (e.g. 11).
+
+If the colour is not specified, the colour is black.  If the size is not specified, the size is 11.
+
+As a user, I want to view the various parameters of the function getFontInfo.
 
 ## Technologies
 
